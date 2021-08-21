@@ -4,15 +4,15 @@ there are two dart packages now.
 
 1. PrayerTimes:
 you can initial prayertimes instance in 2 way.
-  1. 
+  . 
   ```dart
   var p = PrayerTimes(method:'MWL');
   
   ```
   
   there are more method name: 'MWL','ISNA','Egypt','Makkah','Karachi','Tehran','Jafari'
-  
-  2. 
+  or
+  . 
   
    ```dart
   var p= PrayerTimes(prayerTimeMethods:PrayerTimeMethods.instituteOfGeophysicsUniversityOfTehran );
@@ -37,8 +37,8 @@ and more
 thats all
 
 
-1. hijri_calculator:
-hijri_calculator is incomplete . better now to use.
+2. hijri_calculator:
+hijri_calculator is incomplete . better not to use.
 else youcan visit
 
-<a href="https://pub.dev/packages/hijri" >Hijjri</a> Dart Package
+this <a href="https://pub.dev/packages/hijri" >Hijjri</a> Dart Package
